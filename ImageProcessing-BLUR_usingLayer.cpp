@@ -1,7 +1,7 @@
 /********************************************
 *											*
 *    Image processing software - Blur       *
-*    Author Petar Bijev                     *
+*    Author Petar Nikolov                   *
 *											*
 *********************************************/
 
